@@ -1,0 +1,6 @@
+[submodule "Q4_PreReq_RS"]
+	path = Q4_PreReq_RS
+	url = https://github.com/bytehash69/Q4_PreReq_RS
+[submodule "Q4_PreReq_TS"]
+	path = Q4_PreReq_TS
+	url = https://github.com/bytehash69/Q4_PreReq_TS
