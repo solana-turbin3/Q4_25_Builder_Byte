@@ -7,3 +7,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/bytehash69/solana-starter
+[submodule "RapidFlow"]
+	path = RapidFlow
+	url = https://github.com/RapidFloww/RapidFlow.git
