@@ -10,3 +10,6 @@
 [submodule "RapidFlow"]
 	path = RapidFlow
 	url = https://github.com/RapidFloww/RapidFlow.git
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/bytehash69/anchor-vault
