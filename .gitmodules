@@ -13,3 +13,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/bytehash69/anchor-vault
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/bytehash69/anchor-escrow
