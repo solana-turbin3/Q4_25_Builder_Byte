@@ -19,3 +19,6 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = https://github.com/bytehash69/anchor-amm
+[submodule "anchor-mplxcore"]
+	path = anchor-mplxcore
+	url = https://github.com/bytehash69/anchor-mplxcore.git
